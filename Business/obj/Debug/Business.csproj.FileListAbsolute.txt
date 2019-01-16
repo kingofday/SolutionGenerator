@@ -1,0 +1,6 @@
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\bin\Debug\Business.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\bin\Debug\Business.pdb
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\obj\Debug\Business.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Business\obj\Debug\Business.pdb

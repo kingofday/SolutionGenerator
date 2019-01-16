@@ -1,0 +1,24 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+<TemplateData>
+<Name>Domain</Name>
+<Description>&lt;No description available&gt;</Description>
+<ProjectType>CSharp</ProjectType>
+<ProjectSubType>
+</ProjectSubType>
+<SortOrder>1000</SortOrder>
+<CreateNewFolder>true</CreateNewFolder>
+<DefaultName>Domain</DefaultName>
+<ProvideDefaultName>true</ProvideDefaultName>
+<LocationField>Enabled</LocationField>
+<EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+</TemplateData>
+<TemplateContent>
+<Project TargetFileName = "$ext_safeprojectname$.Dashboard.csproj" File="Domain.csproj" ReplaceParameters="true">
+<Folder Name="Properties" TargetFolderName="Properties">
+<ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+</Folder>
+<ProjectItem ReplaceParameters="true" TargetFileName="Class1.cs">Class1.cs</ProjectItem>
+<ProjectItem ReplaceParameters="true" TargetFileName="Domain.csproj">Domain.csproj</ProjectItem>
+</Project
+></TemplateContent>
+</VSTemplate>

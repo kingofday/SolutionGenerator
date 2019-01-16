@@ -1,0 +1,6 @@
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\bin\Debug\Data.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\bin\Debug\Data.pdb
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\obj\Debug\Data.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\Data\obj\Debug\Data.pdb

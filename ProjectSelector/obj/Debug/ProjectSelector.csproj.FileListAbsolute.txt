@@ -1,0 +1,17 @@
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.csprojResolveAssemblyReference.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\MainWindow.g.cs
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\App.g.cs
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector_MarkupCompile.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector_MarkupCompile.lref
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\bin\Debug\ProjectSelector.exe.config
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\bin\Debug\ProjectSelector.exe
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\bin\Debug\ProjectSelector.pdb
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\bin\Debug\envdte80.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\bin\Debug\stdole.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\MainWindow.baml
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.g.resources
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.Properties.Resources.resources
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.csproj.GenerateResource.Cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.csproj.CoreCompileInputs.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.exe
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\ProjectSelector\obj\Debug\ProjectSelector.pdb

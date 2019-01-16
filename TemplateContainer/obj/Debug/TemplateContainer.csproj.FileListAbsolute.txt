@@ -1,0 +1,12 @@
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\obj\Debug\TemplateContainer.csprojResolveAssemblyReference.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\obj\Debug\TemplateContainer.csproj.CoreCompileInputs.cache
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\obj\Debug\CSharp\1033\TemplateContainer.zip
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\obj\Debug\TemplateContainer.dll
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\obj\Debug\TemplateContainer.pdb
+C:\Shahrooz\My Projects\Web\Kingofday.ProjGn.Dashboard\TemplateContainer\bin\Debug\ProjectTemplates\CSharp\1033\TemplateContainer.zip
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\bin\Debug\ProjectTemplates\CSharp\1033\TemplateContainer.zip
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\obj\Debug\TemplateContainer.csprojResolveAssemblyReference.cache
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\obj\Debug\TemplateContainer.csproj.CoreCompileInputs.cache
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\obj\Debug\CSharp\1033\TemplateContainer.zip
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\obj\Debug\TemplateContainer.dll
+C:\Shahrooz\My Projects\Web\SolutionGenerator\TemplateContainer\obj\Debug\TemplateContainer.pdb
